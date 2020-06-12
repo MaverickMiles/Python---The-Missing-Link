@@ -1,0 +1,41 @@
+What is a scripting language?
+Python as an interpreted language?
+Backward incompatibility
+Anaconda system
+Web API
+Application Scripting***
+What is big data??
+Rudimentary REPL (Read Eval Print Loop)
+PyPI = Python Package Index
+Understanding ipython
+
+Working with python
+    -Executing python file->Rudimentatary REPL
+    -pip = pip installs packages
+    -iPython = robust Interactive shell
+    
+
+
+Python Enhancement Proposal (PEP) 20 -> Zen of Python
+    -Beautiful is better than ugly
+    -Explicit is better than implicit
+    -Simple is better than complex
+    -Complex is better than complicated
+    -Complicated is dealing with several responsibilities at once
+    -Readability counts
+    -Maintainance is expensive
+
+What makes python special?
+    Extensible design
+    Community involved design
+    Emphasizing Fun
+    Spam and eggs versus foo and bar
+
+
+Features: Dynamically typed -> syntax is checked at runtime
+
+
+Python Use Cases
+    Machine Scripting and Administration
+    Web Development
+
